@@ -1,0 +1,27 @@
+_repo: Pimsti-Pumsti_61684
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Struck, Rose
+    gutenberg_agent_id: '51560'
+    url: http://www.gutenberg.org/2009/agents/51560
+description: ''
+gutenberg_issued: '2020-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61684'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Pimsti-Pumsti oder Weihnachten im Walde -- Das Licht vom Himmel --
+  Die Schönsten -- Feuerseelchen -- Wie Peterle trocken Brot essen lernte -- Prinzessinnenhände
+  -- Wie Klein-Rosas Puppe mit dem König in den Himmel kam -- Fürstin Lilie -- Der
+  Wundergarten -- Gevatter Langbein -- Das Lied der Mutter -- Die Nesselhexe -- Das
+  Guckerohr -- Berggeistchens Talfahrt.
+title: Pimsti-Pumsti
+url: http://www.gutenberg.org/ebooks/61684
